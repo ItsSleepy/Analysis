@@ -1,7 +1,5 @@
 # Analysis
 
-# Analysis
-
 **Advanced Data Analysis & Visualization Studio**
 
 A modern Python Tkinter application for loading, analyzing, and visualizing datasets (CSV, Excel, JSON). Features include:
